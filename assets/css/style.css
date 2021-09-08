@@ -843,6 +843,77 @@ section {
   text-align: center;
 }
 
+
+.suscribe-area {
+  background: #e03a3c none repeat scroll 0 0;
+  padding: 30px 0;
+}
+
+.suscribe-text {
+  display: block;
+  padding: 10px 0;
+}
+
+.suscribe-text h3 {
+  color: #fff;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 600;
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+
+.suscribe-input input {
+  background: transparent none repeat scroll 0 0;
+  border: medium none;
+  color: #fff;
+  float: left;
+  font-size: 15px;
+  line-height: 24px;
+  padding: 11px 15px;
+  width: 70%;
+  height: 50px;
+}
+
+.suscribe-input button {
+  background: #3ec1d5 none repeat scroll 0 0;
+  border: medium none;
+  border-radius: 0 20px 20px 0;
+  color: #fff;
+  float: left;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 14px 20px;
+  width: 30%;
+}
+
+.suscribe-input button:hover {
+  background: #3EC1D5 none repeat scroll 0 0;
+  color: #3ec1d5;
+}
+.sus-btn {
+  background: #3EC1D5 none repeat scroll 0 0;
+  border: 2px solid #fff;
+  color: #fff;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 700;
+  margin-left: 100px;
+  padding: 10px 20px;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 30px;
+}
+
+.sus-btn:hover {
+  background: rgb(0, 0, 0) none repeat scroll 0 0;
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+
 .portfolio #portfolio-flters li {
   cursor: pointer;
   display: inline-block;
